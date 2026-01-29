@@ -1,0 +1,62 @@
+
+Job Summary:
+
+We are looking for a skilled Full Stack Developer with hands-on experience in Java, Spring Boot, React JS, and Microservices. The ideal candidate should have strong backend and frontend expertise, experience in developing scalable web applications, and familiarity with containerization and CI/CD processes.
+
+Key Responsibilities:
+
+Design, develop, and deploy enterprise-level applications using Java (8+), Spring Boot, and React JS
+Build and integrate microservices for scalable and high-performance systems
+Collaborate with DevOps and QA teams to ensure smooth CI/CD and deployment processes
+Perform code reviews, optimize application performance, and ensure adherence to coding best practices
+Troubleshoot issues, maintain application stability, and support production when needed
+Ensure compliance with security, scalability, and performance requirements
+Technical Skills Required:
+
+Backend: Java 8+, Spring Boot, Spring MVC, Spring Security, Hibernate, RESTful APIs
+Frontend: React JS (mandatory), JavaScript
+Databases: SQL, RDBMS concepts
+Microservices Architecture and API development
+Containerization: Docker, Kubernetes, OpenShift
+CI/CD Tools: Jenkins or similar
+Version Control: GIT, SVN
+Agile Tools: JIRA, Confluence
+ 
+
+Good-to-Have Skills:
+
+ 
+
+Experience with message queues (Kafka, RabbitMQ).
+Knowledge of performance testing and profiling tools.
+Familiarity with TDD/BDD methodologies.
+Experience in a highly regulated industry (e.g., FinTech, Healthcare).
+
+
+
+=======================================
+Selection process: 2 Technical Virtual Round
+
+•         Java, Microservices, Springboot, IntelliJ, Gitlab, Maven, RestAPIs, Database Schemas
+
+•         Conceptualization, development and documentation of applications as a full stack developer within an interdisciplinary team and approaches.
+
+•         Implementation of user stories and accompanying the implementation into practice.
+
+•         Evaluation of user stories for their feasibility and corresponding effort estimation.
+
+•         Detailed clarification of requirements in the context of the user stories to be processed.
+
+•         Securing own development activities through appropriate tests.
+
+•         Close coordination with Application Architect and Application Owner.
+
+•         Production Deployments support, Release branch preparation
+
+•         Bug analysis and bug fixing
+
+•         Support in analysis of production issues
+
+•         Hands on experience in JIRA and Confluence
+
+•         Working knowledge of CICD, SonarQube, Junit
